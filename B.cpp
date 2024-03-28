@@ -1,3 +1,4 @@
+// 这里也要重写不一样的！！哈哈哈！！ 
 #include <stdio.h>
 #include <string.h>
 int main(){
